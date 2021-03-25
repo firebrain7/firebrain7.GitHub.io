@@ -1,13 +1,8 @@
 ---
 layout: page
 title: "About"
-description: "你的博客描述 " 
+description: "期待我的所思所想能对你有所启发, 也期待被启发, 欢迎交流!" 
 header-img: "img/green.jpg"
 ---
-
-这一页填写你的自我介绍。
-
-
-
 
 
